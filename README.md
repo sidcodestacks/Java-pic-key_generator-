@@ -1,2 +1,10 @@
 # Java-Fingerprint-pic-64-bit-encoder-
-convert any pic into a 64 bit encrypted code
+## convert any pic into a 64 bit encrypted code
+```
+GET TO LEARN A WIDE RANGE OF CLASSES WITH THE BASICS OF ENCRYPTION IN JAVA!!
+yOU GET TO SEE A WIDE RANGE AND UTILIZATION OF ADVANCE CODES OF JAVA INCLUDING 
+sYNTAX TO ENCODE FILE IN 64-BITS ;
+sYNTAX FOR BASIC GUI IN JAVA USING JAVA SWING ETC.
+```
+### LET'S BEGIN!!
+ 
