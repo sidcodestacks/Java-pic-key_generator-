@@ -1,4 +1,4 @@
-# Java-Fingerprint-pic-64-bit-encoder-
+# Java-PICTURE-64-bit-KEY-GENERATOR-
 ## convert any pic into a 64 bit encrypted code
 ```
 GET TO LEARN A WIDE RANGE OF CLASSES WITH THE BASICS OF ENCRYPTION IN JAVA!!
